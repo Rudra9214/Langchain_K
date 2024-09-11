@@ -1,0 +1,8 @@
+langchain_core
+streamlit
+langchain_openai
+langchain_community
+langchain
+Chromadb
+Objectbox
+langchain_objectbox
